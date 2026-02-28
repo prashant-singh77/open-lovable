@@ -1,21 +1,4 @@
-# Open Lovable
 
-Chat with AI to build React apps instantly. An example app made by the [Firecrawl](https://firecrawl.dev/?ref=open-lovable-github) team. For a complete cloud solution, check out [Lovable.dev](https://lovable.dev/) ❤️.
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAwZGJzcDVmZGYxc3MyNDUycTliYnAwem1qbzhtNHh0c2JrNDdmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMYzMkNmOecj3yFw81/giphy.gif" alt="Open Lovable Demo" width="100%"/>
-
-## Setup
-
-1. **Clone & Install**
-```bash
-git clone https://github.com/firecrawl/open-lovable.git
-cd open-lovable
-pnpm install  # or npm install / yarn install
-```
-
-2. **Add `.env.local`**
-
-```env
 # =================================================================
 # REQUIRED
 # =================================================================
